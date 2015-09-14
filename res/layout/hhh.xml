@@ -8,6 +8,11 @@
     android:layout_height="match_parent"
     android:text="abc"
     />
-    
+
+    <TextView
+        android:layout_width="20dp"
+        android:layout_height="match_parent"
+        android:text="abc"
+        />
 
 </LinearLayout>
